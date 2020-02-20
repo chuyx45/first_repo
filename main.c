@@ -1,5 +1,5 @@
 #include <stdio.h>
-//comentario
+
 int main(){
   for(int i=0; i<6; i++)
     printf("Hola mundo: %i",i);
