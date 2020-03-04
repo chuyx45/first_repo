@@ -4,6 +4,6 @@ int main(){
   for(int i=0; i<8; i++)
     printf("Hola mundo: %i",i);
   
-  //fin
+  //end
   return 1;
 }
