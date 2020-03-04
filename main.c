@@ -5,5 +5,5 @@ int main(){
     printf("Hola mundo: %i",i);
   
   //fin
-  return 0;
+  return 1;
 }
